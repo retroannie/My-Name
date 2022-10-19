@@ -324,3 +324,10 @@
 - Place : Lebanon.
 - Bio : Junior computer engineer.
 - Github [Charbel](https://github.com/CharbelElBateh)
+
+# Name: Ana Luisa (retroannie)
+
+- Place: USA
+- Bio: Self-taught Web Developer
+- GitHub: [Ana Luisa](https://github.com/retroannie)
+
